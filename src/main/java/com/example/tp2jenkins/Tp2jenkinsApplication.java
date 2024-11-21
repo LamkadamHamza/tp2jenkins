@@ -17,6 +17,6 @@ public class Tp2jenkinsApplication {
 
   @GetMapping("/test")
   public String hello() {
-    return "Hello World";
+    return "Hello hamza";
   }
 }
